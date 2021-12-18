@@ -9,16 +9,5 @@
       <link>https://gaaraam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://gaaraam.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://gaaraam.github.io/post/test2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gaaraam.github.io/post/test2/</guid>
-      <description>title: &amp;ldquo;My 1st post&amp;rdquo; date: 2020-09-15T11:30:03+00:00
-weight: 1 aliases: [&amp;quot;/first&amp;quot;] tags: [&amp;ldquo;first&amp;rdquo;] author: &amp;ldquo;Me&amp;rdquo;
-author: [&amp;ldquo;Me&amp;rdquo;, &amp;ldquo;You&amp;rdquo;] # multiple authors showToc: true TocOpen: false draft: false hidemeta: false comments: false description: &amp;ldquo;Desc Text.&amp;rdquo; canonicalURL: &amp;ldquo;https://canonical.url/to/page&amp;quot; disableHLJS: true # to disable highlightjs disableShare: false disableHLJS: false hideSummary: false searchHidden: true ShowReadingTime: true ShowBreadCrumbs: true ShowPostNavLinks: true</description>
-    </item>
-    
   </channel>
 </rss>
