@@ -9,14 +9,15 @@
       <link>https://gaaraam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gaaraam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gaaraam.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>테스트</title>
+      <title>[git] git을 시작할 때 알아야 할 것들</title>
       <link>https://gaaraam.github.io/post/test2/</link>
-      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://gaaraam.github.io/post/test2/</guid>
-      <description>테스트입니다. 태그 적용 x 카테고리 적용 x 댓글 적용 x</description>
+      <description>(더 추가예정)
+git  코딩할 때 단순히 ctrl + z 를 눌러 이전 상태로 되돌리는 것이 아니라 원하는 시점마다 깃발을 꽂고(버전을 만들고) 이들 간에 자유롭게 돌아다닐 수 있ㅆ다. 내가 만든 버전 뿐 아니라 동료가 만든 내 버전으로 이동할 수 있고, 동료와 내 버전을 비교해서 최신본으로 코드를 업데이트할 수 있다. git은 cli와 gui로 이용 가능하다. git에 코드를 올리는 단계 저장소 만들기 -&amp;gt; 초기화(로컬 저장소 생성) -&amp;gt; github 주소를 로컬 저장소에 알려주기 -&amp;gt; 올리길 원하는 것만 선택 -&amp;gt; 선택한 파일들을 한 덩어리로 만들기(커밋) -&amp;gt; 덩어리에 이름 붙여주기 -&amp;gt; 덩어리를 깃허브에 올리기 로컬 저장소는 git이 관리하는 세 그루의 나무로 구성되어 있다.</description>
     </item>
     
   </channel>
