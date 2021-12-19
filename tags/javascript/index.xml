@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>javascript on 가람로그</title>
+    <link>https://gaaraam.github.io/tags/javascript/</link>
+    <description>Recent content in javascript on 가람로그</description>
+    <image>
+      <url>https://gaaraam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://gaaraam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 19 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gaaraam.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[javascript] 객체</title>
+      <link>https://gaaraam.github.io/post/jsobject/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaaraam.github.io/post/jsobject/</guid>
+      <description>객체의 선언과 호출 객체는 하나의 이름에 여러 종류의 값을 넣을 수 있게 해준다.
+const yeji = { name: &amp;#39;황예지&amp;#39;, age: 22, position: &amp;#39;leader&amp;#39; }; const ryujin = { name: &amp;#39;신류진&amp;#39;, age: 21, position: &amp;#39;center&amp;#39; }; console.log(yeji.name); // return 황예지 console.log(yeji.age); // return 22 console.log(ryujin.position); // return center yeji라는 객체에 name이라는 값이 존재하듯이, console.log()는 console이라는 객체에 log라는 함수가 존재하는 것으로 이해할 수 있다.
+객체 비구조화 할당(객체 구조 분해) yeji 내부의 값을 조회할 때마다 yeji.</description>
+    </item>
+    
+  </channel>
+</rss>
